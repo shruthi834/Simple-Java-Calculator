@@ -18,6 +18,7 @@ import static java.lang.Math.pow;
 
 public class Calculator {
 
+    // comments
     public enum BiOperatorModes {
         normal, add, minus, multiply, divide , xpowerofy 
     }
